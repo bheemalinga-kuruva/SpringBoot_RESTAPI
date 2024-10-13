@@ -1,8 +1,5 @@
 package com.bhim.binding;
 
-import org.springframework.stereotype.Component;
-
-@Component
 public class Customer {
 
 	private Integer id;
